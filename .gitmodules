@@ -1,0 +1,6 @@
+[submodule "wolvrix-playground"]
+	path = wolvrix-playground
+	url = https://github.com/Wolf-Tungsten/wolvrix-playground
+[submodule "corvus"]
+	path = corvus
+	url = https://github.com/Wolf-Tungsten/corvus
