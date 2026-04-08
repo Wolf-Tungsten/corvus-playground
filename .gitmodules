@@ -4,3 +4,6 @@
 [submodule "corvus"]
 	path = corvus
 	url = https://github.com/Wolf-Tungsten/corvus
+[submodule "rt-thread"]
+	path = rt-thread
+	url = https://github.com/Wolf-Tungsten/rt-thread-for-corvus.git
